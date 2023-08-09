@@ -1,6 +1,6 @@
 ##  DESCRIPCIÓN 🤖
 
-En esta carpeta se encuentran mis proyectos realizados en C#.
+En este repositorio se encuentran mis proyectos realizados en C#.
 
 ##  AUTOR 🖊️
 
