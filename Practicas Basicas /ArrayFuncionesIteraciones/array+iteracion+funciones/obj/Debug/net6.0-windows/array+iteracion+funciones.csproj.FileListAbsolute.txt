@@ -1,0 +1,17 @@
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\array+iteracion+funciones\array+iteracion+funciones\bin\Debug\net6.0-windows\array+iteracion+funciones.exe
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\array+iteracion+funciones\array+iteracion+funciones\bin\Debug\net6.0-windows\array+iteracion+funciones.deps.json
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\array+iteracion+funciones\array+iteracion+funciones\bin\Debug\net6.0-windows\array+iteracion+funciones.runtimeconfig.json
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\array+iteracion+funciones\array+iteracion+funciones\bin\Debug\net6.0-windows\array+iteracion+funciones.dll
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\array+iteracion+funciones\array+iteracion+funciones\bin\Debug\net6.0-windows\array+iteracion+funciones.pdb
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\array+iteracion+funciones\array+iteracion+funciones\obj\Debug\net6.0-windows\array+iteracion+funciones.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\array+iteracion+funciones\array+iteracion+funciones\obj\Debug\net6.0-windows\array_iteracion_funciones.Form1.resources
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\array+iteracion+funciones\array+iteracion+funciones\obj\Debug\net6.0-windows\array+iteracion+funciones.csproj.GenerateResource.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\array+iteracion+funciones\array+iteracion+funciones\obj\Debug\net6.0-windows\array+iteracion+funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\array+iteracion+funciones\array+iteracion+funciones\obj\Debug\net6.0-windows\array+iteracion+funciones.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\array+iteracion+funciones\array+iteracion+funciones\obj\Debug\net6.0-windows\array+iteracion+funciones.AssemblyInfo.cs
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\array+iteracion+funciones\array+iteracion+funciones\obj\Debug\net6.0-windows\array+iteracion+funciones.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\array+iteracion+funciones\array+iteracion+funciones\obj\Debug\net6.0-windows\array+iteracion+funciones.dll
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\array+iteracion+funciones\array+iteracion+funciones\obj\Debug\net6.0-windows\refint\array+iteracion+funciones.dll
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\array+iteracion+funciones\array+iteracion+funciones\obj\Debug\net6.0-windows\array+iteracion+funciones.pdb
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\array+iteracion+funciones\array+iteracion+funciones\obj\Debug\net6.0-windows\array+iteracion+funciones.genruntimeconfig.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\array+iteracion+funciones\array+iteracion+funciones\obj\Debug\net6.0-windows\ref\array+iteracion+funciones.dll
