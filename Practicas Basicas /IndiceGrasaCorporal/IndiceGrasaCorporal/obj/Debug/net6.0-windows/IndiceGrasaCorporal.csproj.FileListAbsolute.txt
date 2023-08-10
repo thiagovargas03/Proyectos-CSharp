@@ -1,0 +1,17 @@
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\IndiceGrasaCorporal\IndiceGrasaCorporal\bin\Debug\net6.0-windows\IndiceGrasaCorporal.exe
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\IndiceGrasaCorporal\IndiceGrasaCorporal\bin\Debug\net6.0-windows\IndiceGrasaCorporal.deps.json
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\IndiceGrasaCorporal\IndiceGrasaCorporal\bin\Debug\net6.0-windows\IndiceGrasaCorporal.runtimeconfig.json
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\IndiceGrasaCorporal\IndiceGrasaCorporal\bin\Debug\net6.0-windows\IndiceGrasaCorporal.dll
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\IndiceGrasaCorporal\IndiceGrasaCorporal\bin\Debug\net6.0-windows\IndiceGrasaCorporal.pdb
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\IndiceGrasaCorporal\IndiceGrasaCorporal\obj\Debug\net6.0-windows\IndiceGrasaCorporal.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\IndiceGrasaCorporal\IndiceGrasaCorporal\obj\Debug\net6.0-windows\IndiceGrasaCorporal.Form1.resources
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\IndiceGrasaCorporal\IndiceGrasaCorporal\obj\Debug\net6.0-windows\IndiceGrasaCorporal.csproj.GenerateResource.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\IndiceGrasaCorporal\IndiceGrasaCorporal\obj\Debug\net6.0-windows\IndiceGrasaCorporal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\IndiceGrasaCorporal\IndiceGrasaCorporal\obj\Debug\net6.0-windows\IndiceGrasaCorporal.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\IndiceGrasaCorporal\IndiceGrasaCorporal\obj\Debug\net6.0-windows\IndiceGrasaCorporal.AssemblyInfo.cs
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\IndiceGrasaCorporal\IndiceGrasaCorporal\obj\Debug\net6.0-windows\IndiceGrasaCorporal.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\IndiceGrasaCorporal\IndiceGrasaCorporal\obj\Debug\net6.0-windows\IndiceGrasaCorporal.dll
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\IndiceGrasaCorporal\IndiceGrasaCorporal\obj\Debug\net6.0-windows\refint\IndiceGrasaCorporal.dll
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\IndiceGrasaCorporal\IndiceGrasaCorporal\obj\Debug\net6.0-windows\IndiceGrasaCorporal.pdb
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\IndiceGrasaCorporal\IndiceGrasaCorporal\obj\Debug\net6.0-windows\IndiceGrasaCorporal.genruntimeconfig.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\IndiceGrasaCorporal\IndiceGrasaCorporal\obj\Debug\net6.0-windows\ref\IndiceGrasaCorporal.dll
