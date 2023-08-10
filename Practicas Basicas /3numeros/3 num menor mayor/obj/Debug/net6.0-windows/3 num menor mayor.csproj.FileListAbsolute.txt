@@ -1,0 +1,17 @@
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\3 num menor mayor\3 num menor mayor\bin\Debug\net6.0-windows\3 num menor mayor.exe
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\3 num menor mayor\3 num menor mayor\bin\Debug\net6.0-windows\3 num menor mayor.deps.json
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\3 num menor mayor\3 num menor mayor\bin\Debug\net6.0-windows\3 num menor mayor.runtimeconfig.json
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\3 num menor mayor\3 num menor mayor\bin\Debug\net6.0-windows\3 num menor mayor.dll
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\3 num menor mayor\3 num menor mayor\bin\Debug\net6.0-windows\3 num menor mayor.pdb
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\3 num menor mayor\3 num menor mayor\obj\Debug\net6.0-windows\3 num menor mayor.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\3 num menor mayor\3 num menor mayor\obj\Debug\net6.0-windows\_3_num_menor_mayor.Form1.resources
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\3 num menor mayor\3 num menor mayor\obj\Debug\net6.0-windows\3 num menor mayor.csproj.GenerateResource.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\3 num menor mayor\3 num menor mayor\obj\Debug\net6.0-windows\3 num menor mayor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\3 num menor mayor\3 num menor mayor\obj\Debug\net6.0-windows\3 num menor mayor.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\3 num menor mayor\3 num menor mayor\obj\Debug\net6.0-windows\3 num menor mayor.AssemblyInfo.cs
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\3 num menor mayor\3 num menor mayor\obj\Debug\net6.0-windows\3 num menor mayor.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\3 num menor mayor\3 num menor mayor\obj\Debug\net6.0-windows\3 num menor mayor.dll
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\3 num menor mayor\3 num menor mayor\obj\Debug\net6.0-windows\refint\3 num menor mayor.dll
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\3 num menor mayor\3 num menor mayor\obj\Debug\net6.0-windows\3 num menor mayor.pdb
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\3 num menor mayor\3 num menor mayor\obj\Debug\net6.0-windows\3 num menor mayor.genruntimeconfig.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\3 num menor mayor\3 num menor mayor\obj\Debug\net6.0-windows\ref\3 num menor mayor.dll
