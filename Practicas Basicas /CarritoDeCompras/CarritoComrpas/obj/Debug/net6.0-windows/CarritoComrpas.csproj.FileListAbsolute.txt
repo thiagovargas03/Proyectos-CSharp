@@ -1,0 +1,17 @@
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\CarritoComrpas\CarritoComrpas\bin\Debug\net6.0-windows\CarritoComrpas.exe
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\CarritoComrpas\CarritoComrpas\bin\Debug\net6.0-windows\CarritoComrpas.deps.json
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\CarritoComrpas\CarritoComrpas\bin\Debug\net6.0-windows\CarritoComrpas.runtimeconfig.json
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\CarritoComrpas\CarritoComrpas\bin\Debug\net6.0-windows\CarritoComrpas.dll
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\CarritoComrpas\CarritoComrpas\bin\Debug\net6.0-windows\CarritoComrpas.pdb
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\CarritoComrpas\CarritoComrpas\obj\Debug\net6.0-windows\CarritoComrpas.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\CarritoComrpas\CarritoComrpas\obj\Debug\net6.0-windows\CarritoComrpas.Form1.resources
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\CarritoComrpas\CarritoComrpas\obj\Debug\net6.0-windows\CarritoComrpas.csproj.GenerateResource.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\CarritoComrpas\CarritoComrpas\obj\Debug\net6.0-windows\CarritoComrpas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\CarritoComrpas\CarritoComrpas\obj\Debug\net6.0-windows\CarritoComrpas.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\CarritoComrpas\CarritoComrpas\obj\Debug\net6.0-windows\CarritoComrpas.AssemblyInfo.cs
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\CarritoComrpas\CarritoComrpas\obj\Debug\net6.0-windows\CarritoComrpas.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\CarritoComrpas\CarritoComrpas\obj\Debug\net6.0-windows\CarritoComrpas.dll
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\CarritoComrpas\CarritoComrpas\obj\Debug\net6.0-windows\refint\CarritoComrpas.dll
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\CarritoComrpas\CarritoComrpas\obj\Debug\net6.0-windows\CarritoComrpas.pdb
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\CarritoComrpas\CarritoComrpas\obj\Debug\net6.0-windows\CarritoComrpas.genruntimeconfig.cache
+C:\Users\thiag\Desktop\PORTAFOLIO\C#\CarritoComrpas\CarritoComrpas\obj\Debug\net6.0-windows\ref\CarritoComrpas.dll
